@@ -1,46 +1,34 @@
-# American English File 1 (Third Edition)
+# 📘 American English File 1 (Third Edition)
 
-This repository contains my personal study notes while learning English with **American English File 1 (Third Edition)**.
+A wiki-style repository containing my personal study notes while learning English with **American English File 1 (Third Edition)**.
 
-## 📚 Objectives
+## 🎯 Purpose
 
-- Improve English communication skills
-- Learn new vocabulary
-- Study grammar
-- Practice speaking, listening, reading, and writing
-- Track my learning progress
+This repository is used to organize and document everything I learn from the book, including:
 
-## 📂 Repository Structure
+- 📖 Vocabulary
+- 📝 Grammar
+- 💬 Useful Expressions
+- 🎧 Listening Notes
+- 🗣 Speaking Notes
+- ✍ Writing Practice
+- 📚 Unit Summaries
+
+## 📂 Wiki Structure
 
 ```
-Unit-01/
-Unit-02/
-Unit-03/
-Unit-04/
-Unit-05/
-Unit-06/
-Unit-07/
-Unit-08/
-Unit-09/
-Unit-10/
-Vocabulary/
-Grammar/
-README.md
+Home
+├── Unit 01
+├── Unit 02
+├── Unit 03
+├── ...
+├── Vocabulary
+├── Grammar
+├── Expressions
+└── Resources
 ```
 
-## 📖 Contents of Each Unit
-
-Each unit includes:
-
-- Vocabulary
-- Grammar
-- Expressions
-- Useful Sentences
-- Notes
-- Exercises
-- Review
-
-## 🚀 Progress
+## 📅 Progress
 
 - [x] Unit 1
 - [ ] Unit 2
@@ -55,4 +43,4 @@ Each unit includes:
 
 ## 📌 Goal
 
-Complete the entire book while keeping organized notes and reviewing regularly.
+Complete the entire book while building a well-organized English learning wiki for future review and continuous improvement.
