@@ -1,6 +1,6 @@
 # 📘 American English File 1 (Third Edition)
 
-A wiki-style repository containing my personal study notes while learning English with **American English File 1 (Third Edition)**.
+A wiki-style repository containing my personal study notes while learning English with **American English File 1 **.
 
 ## 🎯 Purpose
 
